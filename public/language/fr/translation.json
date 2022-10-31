@@ -1,0 +1,15 @@
+{
+  "app_title": " Fiche de score de l’élève",
+  "language": "Sélectionner une langue",
+  "CSSR":"Créer un enregistrement de score d’élève",
+  "studentName":"Nom de l’étudiant",
+  "score":"Score",
+  "createRecord":"Créer un enregistrement",
+  "from":"De",
+  "to":"À",
+  "id":"Id",
+  "student":"Étudiant",
+  "class":"Classe",
+  "filter":"Filtre",
+  "delete":"Supprimer"
+}

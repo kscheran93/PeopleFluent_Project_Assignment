@@ -1,0 +1,15 @@
+{
+  "app_title": "Student Score Record",
+  "language": "Select Language",
+  "CSSR":"Create Student Score Record",
+  "studentName":"Student Name",
+  "score":"Score",
+  "createRecord":"Create Record",
+  "from":"From",
+  "to":"To",
+  "id":"Id",
+  "student":"Student",
+  "class":"Class",
+  "filter":"Filter",
+  "delete":"Delete"
+}
