@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kscheran93/github.io/PeopleFluent_Project_Assignment",
+  "homepage": "http://kscheran93/github.com/PeopleFluent_Project_Assignment",
   "name": "student-record-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
-    "@types/node": "^16.18.2",
     "@types/react": "^18.0.23",
     "@types/react-dom": "^18.0.7",
     "i18next": "^22.0.4",
@@ -28,11 +27,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -53,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "@types/node": "^18.11.8",
     "gh-pages": "^4.0.0"
   }
 }
